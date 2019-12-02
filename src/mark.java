@@ -6,5 +6,6 @@ public class mark {
 
     public void afterknight(){
         System.out.println("任务结束了");
+        System.out.println("5555");
     }
 }
