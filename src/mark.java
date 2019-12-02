@@ -1,4 +1,4 @@
-public class mark {
+﻿public class mark {
 
     public void beforeknight(){
         System.out.println("任务要开始了");
@@ -6,6 +6,7 @@ public class mark {
 
     public void afterknight(){
         System.out.println("任务结束了");
+        System.out.println("zxc");
         System.out.println("5555");
     }
 }
