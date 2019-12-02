@@ -6,5 +6,6 @@ public class BraveKnight implements Knight{
     public  void embarkOnQuest(){
         quest.embark();//调用执行方法
         System.out.println("wohao");
+        System.out.println("nihao");
     }
 }
